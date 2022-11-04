@@ -1,0 +1,30 @@
+I used Arduino Mega 2560 clon
+Arduino pin : 
+
+----------> Wheel Pin <--------------- 
+
+//Right side
+Ena = 2
+IN1 = 3
+IN2 = 4
+//Left side
+Enb = 7
+IN3 = 5
+IN4 = 6
+
+----------> Ultrasonic sensor Pin (distance sensor) <---------------
+
+//sensor on
+trig_on = 22
+echo_on = 23
+//sensor back
+trig_back = 24
+echo_back = 25
+//sensor left
+trig_left =26
+echo_left =27
+//sensor right
+trig_right = 28
+echo_right = 29
+
+----------> Led Pin <---------------

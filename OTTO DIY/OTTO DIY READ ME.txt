@@ -1,0 +1,30 @@
+35
+* 1 x Nano ATmega328
+36
+* 1 x Nano I/O shield
+37
+* 1 x USB-A to Mini-USB Cable
+38
+* 1 x Ultrasound sensor HC-SR04 
+39
+* 4 x Micro servo SG90 9g
+40
+* 1 x Piezo Buzzer
+41
+* 6 x Female/Female Dupont Wires
+42
+* 1 x AAbattery holder 
+43
+* 4 x AA Batteries Alkaline \(must be new or have 1.5V each\)
+44
+* 1 x Micro Switch Self lock On/Off 8x8mm 
+45
+* 1 x Small Phillips screwdriver
+46
+* **3D printed head**
+47
+* **3D printed body**
+48
+* **3D printed leg x2**
+49
+* **3D printed foot x2** 
